@@ -1,4 +1,35 @@
+# In your VS Code terminal
+cat > .gitignore << 'EOF'
+# Raw data files — too large or not yours to redistribute
 raw_datasets/*.zip
-__pycache__/
-.env
+raw_datasets/BACI_*
+raw_datasets/international_trade_*
+raw_datasets/semiconductor_companies_*
+
+# Processed outputs — live in Databricks/Snowflake not GitHub
 *.parquet
+*.feather
+/output/
+
+# Secrets — never commit these
+.env
+.env.local
+*.key
+credentials.json
+snowflake_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+EOF
