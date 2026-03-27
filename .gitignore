@@ -18,7 +18,7 @@ raw_datasets/semiconductor_companies_*
 credentials.json
 snowflake_config.py
 
-# Python
+# Pythonpip
 __pycache__/
 *.py[cod]
 *.egg-info/
