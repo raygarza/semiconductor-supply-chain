@@ -32,4 +32,4 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-EOF
+EOFsql/databricks/upload_baci.py
