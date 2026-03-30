@@ -1,0 +1,41 @@
+ticker,company_name,company_type,fiscal_year,revenue_b,rd_spend_b,capex_b,currency_note
+005930.KS,Samsung,foundry,2022,232.486,19.169,40.867,USD_billions_converted_from_KRW_at_1300
+005930.KS,Samsung,foundry,2023,199.181,21.8,46.565,USD_billions_converted_from_KRW_at_1300
+005930.KS,Samsung,foundry,2024,231.439,26.922,41.34,USD_billions_converted_from_KRW_at_1300
+005930.KS,Samsung,foundry,2025,256.62,29.031,40.118,USD_billions_converted_from_KRW_at_1300
+AMAT,Applied Materials,equipment,2022,25.785,2.771,0.787,USD_billions
+AMAT,Applied Materials,equipment,2023,26.517,3.102,1.106,USD_billions
+AMAT,Applied Materials,equipment,2024,27.176,3.233,1.19,USD_billions
+AMAT,Applied Materials,equipment,2025,28.368,3.57,2.26,USD_billions
+ASML,ASML,equipment,2022,21.173,3.254,1.319,USD_billions
+ASML,ASML,equipment,2023,27.558,3.981,2.196,USD_billions
+ASML,ASML,equipment,2024,28.263,4.304,2.083,USD_billions
+ASML,ASML,equipment,2025,32.667,4.699,1.631,USD_billions
+INTC,Intel,foundry,2022,63.054,17.528,24.844,USD_billions
+INTC,Intel,foundry,2023,54.228,16.046,25.75,USD_billions
+INTC,Intel,foundry,2024,53.101,16.546,23.944,USD_billions
+INTC,Intel,foundry,2025,52.853,13.774,14.646,USD_billions
+KLAC,KLA Corporation,equipment,2022,9.212,1.105,0.307,USD_billions
+KLAC,KLA Corporation,equipment,2023,10.496,1.297,0.342,USD_billions
+KLAC,KLA Corporation,equipment,2024,9.812,1.279,0.277,USD_billions
+KLAC,KLA Corporation,equipment,2025,12.156,1.36,0.34,USD_billions
+LRCX,Lam Research,equipment,2022,17.227,1.604,0.546,USD_billions
+LRCX,Lam Research,equipment,2023,17.429,1.727,0.502,USD_billions
+LRCX,Lam Research,equipment,2024,14.905,1.902,0.397,USD_billions
+LRCX,Lam Research,equipment,2025,18.436,2.096,0.759,USD_billions
+MU,Micron,memory,2022,30.758,3.116,12.067,USD_billions
+MU,Micron,memory,2023,15.54,3.114,7.676,USD_billions
+MU,Micron,memory,2024,25.111,3.43,8.386,USD_billions
+MU,Micron,memory,2025,37.378,3.798,15.857,USD_billions
+NVDA,NVIDIA,fabless,2023,26.974,7.339,1.833,USD_billions
+NVDA,NVIDIA,fabless,2024,60.922,8.675,1.069,USD_billions
+NVDA,NVIDIA,fabless,2025,130.497,12.914,3.236,USD_billions
+NVDA,NVIDIA,fabless,2026,215.938,18.497,6.042,USD_billions
+TSM,TSMC,foundry,2022,73.029,5.267,35.149,USD_billions_converted_from_NTD_at_31
+TSM,TSMC,foundry,2023,69.733,5.883,30.819,USD_billions_converted_from_NTD_at_31
+TSM,TSMC,foundry,2024,93.365,6.587,31.128,USD_billions_converted_from_NTD_at_31
+TSM,TSMC,foundry,2025,122.873,7.949,41.374,USD_billions_converted_from_NTD_at_31
+UCTT,Ultra Clean Holdings,sub_tier,2022,2.374,0.028,0.1,USD_billions
+UCTT,Ultra Clean Holdings,sub_tier,2023,1.734,0.028,0.076,USD_billions
+UCTT,Ultra Clean Holdings,sub_tier,2024,2.098,0.028,0.064,USD_billions
+UCTT,Ultra Clean Holdings,sub_tier,2025,2.054,0.032,0.05,USD_billions
