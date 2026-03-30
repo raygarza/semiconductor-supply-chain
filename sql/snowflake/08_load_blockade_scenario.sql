@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS SEMICON_DB.GOLD.BLOCKADE_SCENARIO (
+    scenario                    VARCHAR(100),
+    scenario_code               VARCHAR(2),
+    industry                    VARCHAR(50),
+    tsmc_dependency_pct         INTEGER,
+    china_materials_dependency_pct INTEGER,
+    typical_inventory_days      INTEGER,
+    hits_wall_30day             VARCHAR(5),
+    hits_wall_60day             VARCHAR(5),
+    hits_wall_90day             VARCHAR(5),
+    hits_wall_180day            VARCHAR(5),
+    annual_chip_spend_b         FLOAT,
+    gdp_impact_b_if_prolonged   FLOAT,
+    us_domestic_coverage_pct_2030 INTEGER,
+    current_status_of_scenario  VARCHAR(200),
+    scenario_already_active     VARCHAR(10),
+    key_chips_affected          VARCHAR(200),
+    real_world_precedent        VARCHAR(500),
+    source_notes                VARCHAR(500)
+);
